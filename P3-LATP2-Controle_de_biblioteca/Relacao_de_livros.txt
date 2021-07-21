@@ -1,0 +1,2 @@
+ 			Nome				Autor			Quantidade			Data de devolução
+ 			oliver twist				charles dickens			1			

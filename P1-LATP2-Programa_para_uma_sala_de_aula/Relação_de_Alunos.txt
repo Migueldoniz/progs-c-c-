@@ -1,0 +1,2 @@
+	N° de matrícula0	Nome do Aluno	Média do aluno
+		01			miguel		5.5
